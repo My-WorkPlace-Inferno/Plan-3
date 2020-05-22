@@ -12,5 +12,5 @@ Printed output:
 ```
 Outputs:
 
-ip = 54.87.238.199
+ip = xx.xx.xxx.xxx
 ```
