@@ -14,3 +14,4 @@ Outputs:
 
 ip = xx.xx.xxx.xxx
 ```
+Note: I have not added the ssh keys.
